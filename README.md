@@ -18,6 +18,12 @@ echo "Thank you for visiting, hope you find some of my work interesting."
 </html>
 </body>
 ```
+## :email: Find me on:
+
+<!--
+[<img align="left" alt="ChinmayKorgaonkar | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]</t></t>
+[<img align="left" alt="ChinmayKorgaonkar | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+-->
 
 ## ⚙️ Technologies & Tools
 <p float="center">
@@ -35,3 +41,5 @@ echo "Thank you for visiting, hope you find some of my work interesting."
   <img height="80" src="https://user-images.githubusercontent.com/67018142/156036543-3f880403-69ec-47ab-b7f4-1524f115ad89.png"/>
 </p>
 
+[linkedin]: https://www.linkedin.com/in/chinmay-korgaonkar-763a53232
+[mail]: korgaonkarchinmay2659@gmail.com
