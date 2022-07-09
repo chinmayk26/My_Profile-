@@ -1,4 +1,4 @@
-## Hello there !! <img src="https://mhttps://media.giphy.com/media/YSNTUguOMvWiIY4TQx/giphy.gif" width="50" >
+## Hello there !! <img src="https://media2.giphy.com/media/YSNTUguOMvWiIY4TQx/200w.webp?cid=ecf05e47rn7kko0qhw3zj89blmxse5igc12rd0qr4cr2l45y&rid=200w.webp&ct=s" width="50" >
 
 ```php
 # Install a Web_Server
