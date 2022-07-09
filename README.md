@@ -1,4 +1,4 @@
-# Hello there !! <img src="https://media2.giphy.com/media/YSNTUguOMvWiIY4TQx/200w.webp?cid=ecf05e47rn7kko0qhw3zj89blmxse5igc12rd0qr4cr2l45y&rid=200w.webp&ct=s" width="50" >
+# ***Hello there !!*** <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50" >
 
 ```php
 # Install a Web_Server
@@ -18,13 +18,13 @@ echo "Thank you for visiting, hope you find some of my work interesting."
 </html>
 </body>
 ```
-## :email: Find me on:
+## :email: *Find me on:*
 
 [<img align="left" alt="ChinmayKorgaonkar | LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]</t></t>
 [<a href="mailto:korgaonkarchinmay2659@gmail.com"> <img align="left" alt="ChinmayKorgaonkar | Mail" width="40px" src="https://cdn-icons-png.flaticon.com/512/726/726623.png"/>][mail]<br>
 <br>
 
-## ⚙️ Technologies & Tools
+## ⚙️ *Technologies & Tools*
 <p float="center">
 
   <img height="80" src="https://user-images.githubusercontent.com/67018142/156036478-1aa05d96-c06c-40b0-b948-be900123a82e.png"/>
