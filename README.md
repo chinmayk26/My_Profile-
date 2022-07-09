@@ -20,7 +20,7 @@ echo "Thank you for visiting, hope you find some of my work interesting."
 ```
 ## :email: Find me on:
 
-[<img align="left" alt="ChinmayKorgaonkar | LinkedIn" width="40px" src=""https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]</t></t>
+[<img align="left" alt="ChinmayKorgaonkar | LinkedIn" width="40px" src=""https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]</t></t>
 [<a href="mailto:korgaonkarchinmay2659@gmail.com"> <img align="left" alt="ChinmayKorgaonkar | Mail" width="40px" src="https://cdn-icons-png.flaticon.com/512/726/726623.png"/>][mail]
 
 ## ⚙️ Technologies & Tools
