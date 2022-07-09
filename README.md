@@ -43,5 +43,9 @@ echo "Thank you for visiting, hope you find some of my work interesting."
 
 </p>
 
+## 📈 *GitHub Stats*
+
+## 👨‍💻 *Project Highlights*
+
 [linkedin]: https://www.linkedin.com/in/chinmay-korgaonkar-763a53232
 [mail]: korgaonkarchinmay2659@gmail.com
