@@ -48,7 +48,27 @@ echo "Thank you for visiting, hope you find some of my work interesting."
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinadRao0707&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
+<a href="https://github.com/chinmayk26/chinmayk26">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NinadRao0707&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
 ## 👨‍💻 *Project Highlights*
+<a href="https://github.com/chinmayk26/SAC-Trip-Advisor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinadRao0707&repo=final-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/chinmayk26/crwn-clothing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinadRao0707&repo=Online-Examination-System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
+
+<a href="https://github.com/chinmayk26/EatSure-App-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinadRao0707&repo=instagram_clone_flutter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
+
+<a href="https://github.com/chinmayk26/PetMEe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinadRao0707&repo=instagram_clone_flutter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
+
 
 [linkedin]: https://www.linkedin.com/in/chinmay-korgaonkar-763a53232
 [mail]: korgaonkarchinmay2659@gmail.com
